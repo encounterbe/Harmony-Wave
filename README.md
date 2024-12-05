@@ -9,7 +9,6 @@ A 2D dating interface built with Python and CustomTkinter
 A narrative that takes players through various scenarios and interactions in a Japanese high school
 A seamless transition between 3D exploration and 2D visual novel gameplay
 
-
 ## The project includes:
 Installer (Harmony Wave.py): A custom installer to automatically install all necessary dependencies and files
 Launcher (launcher/launcher.py): A launcher to start the game with a single click
@@ -23,55 +22,3 @@ pip install ursina
 
 ## 👥 Created by
 We are two students from the 10th grade Informatics WPU working on this project as part of a class assignment. The game was created for our computer science exam.
-
-# 📂 Project Structure
-│   Harmony Wave.py
-│
-├───3d-engine
-│   │   classroom.py
-│   │   first_person_controller.py
-│   │   main.py
-│   │   school_hallway.py
-│   │
-│   └───__pycache__
-│           classroom.cpython-311.pyc
-│           first_person_controller.cpython-311.pyc
-│           school_hallway.cpython-311.pyc
-│
-├───game
-│       main.py
-│       start.py
-│
-├───launcher
-│       launcher.py
-│
-├───resources
-│   ├───fonts
-│   │       RifficFree-Bold.ttf
-│   │
-│   ├───game
-│   │       game_save.cfg
-│   │
-│   ├───images
-│   │   ├───background
-│   │   │       background-home.png
-│   │   │       background-launcher.png
-│   │   │       background-settings.png
-│   │   ├───background-model
-│   │   │       background.png
-│   │   │       classroom.png
-│   │   │       dialog-box.png
-│   │   ├───character-model
-│   │   │       natsuki-idek.png
-│   │   │       natsuki-leckmich.png
-│   │   │       natsuki-no.png
-│   │   ├───icon
-│   │   │       close-icon.png
-│   ├───texture
-│   │   ├───glb
-│   │   │       stuhl.glb
-│   │   │       test02.glb
-│   ├───model
-│       │   Moyonote Natsuki.fbx
-│       │   test.py
-│
