@@ -9,12 +9,8 @@ A 2D dating interface built with Python and CustomTkinter
 A narrative that takes players through various scenarios and interactions in a Japanese high school
 A seamless transition between 3D exploration and 2D visual novel gameplay
 
-## The project includes:
-Installer (Harmony Wave.py): A custom installer to automatically install all necessary dependencies and files
-Launcher (launcher/launcher.py): A launcher to start the game with a single click
-
 ## ⚙️ Setup
-To play the game, you’ll need Python installed, along with the required packages. The installer will handle all necessary installations.
+To play the game, you’ll need Python installed, along with the required packages. The installer will handle all necessary installations. Just run the installer (Harmony Wave.exe) and everything will go on from itself.
 
 ### Install the dependencies manually (if not using the installer):
 pip install customtkinter
